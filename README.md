@@ -5,6 +5,8 @@
   </p>
 </p>
 
+Prévia: https://open-food-facts-rho.vercel.app/
+
 ## Começando
 
 Para obter uma cópia local e funcional, siga essas etapas
